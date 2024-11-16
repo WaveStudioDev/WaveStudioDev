@@ -29,9 +29,9 @@ Full-stack developer passionate about creating software and games. I love buildi
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wave-studio&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaveStudioDev&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wave-studio&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WaveStudioDev&layout=compact&theme=dark)
 
 ## 🤝 Connect With Me
 
